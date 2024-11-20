@@ -1,0 +1,65 @@
+/* Dark mode colors. */
+:root {
+  --sl-color-accent-low: #131e4f;
+  --sl-color-accent: #3447ff;
+  --sl-color-accent-high: #b3c7ff;
+  --sl-color-white: #ffffff;
+  --sl-color-gray-1: #eceef2;
+  --sl-color-gray-2: #c0c2c7;
+  --sl-color-gray-3: #888b96;
+  --sl-color-gray-4: #545861;
+  --sl-color-gray-5: #353841;
+  --sl-color-gray-6: #24272f;
+  --sl-color-black: #17181c;
+}
+/* Light mode colors. */
+:root[data-theme="light"] {
+  --sl-color-accent-low: #c7d6ff;
+  --sl-color-accent: #545861;
+  --sl-color-accent-high: #182775;
+  --sl-color-white: #17181c;
+  --sl-color-gray-1: #24272f;
+  --sl-color-gray-2: #353841;
+  --sl-color-gray-3: #545861;
+  --sl-color-gray-4: #888b96;
+  --sl-color-gray-5: #c0c2c7;
+  --sl-color-gray-6: #eceef2;
+  --sl-color-gray-7: #f5efe1;
+  --sl-color-black: #f5efe1;
+  --sl-color-hairline-shade: #24272f00;
+}
+
+.resume-container {
+  max-width: 800px;
+  padding: 40px;
+  background: #f9f9f9;
+  border: 1px solid #ddd;
+  border-radius: 10px;
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+}
+
+.personal-info,
+.education,
+.skills,
+.hobbies {
+  margin-bottom: 20px;
+  line-height: 1.6;
+}
+
+.steps-container {
+  margin-top: 20px;
+}
+
+.steps-item {
+  border-left: 2px solid #0077ff;
+  padding-left: 15px;
+  margin-bottom: 20px;
+}
+
+header.header {
+  border-bottom: 1px solid #545861;
+}
+
+#starlight__sidebar {
+  border-right: 1px solid #545861;
+}
