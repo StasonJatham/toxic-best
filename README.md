@@ -1,60 +1,45 @@
-# Starlight Starter Kit: Basics
+# Mitmachen
 
-[![Built with Starlight](https://astro.badg.es/v2/built-with-starlight/tiny.svg)](https://starlight.astro.build)
+Am besten machst du einfach einen Pull request mit Änderungen die du vorschalgen willst oder Seiten die du hinzufügen möchtest.
 
-```
-npm create astro@latest -- --template starlight
-```
+## Einblick in toxische Führung und deren Auswirkungen – ein Beitrag zur Sensibilisierung und Verbesserung
 
-[![Open in StackBlitz](https://developer.stackblitz.com/img/open_in_stackblitz.svg)](https://stackblitz.com/github/withastro/starlight/tree/main/examples/basics)
-[![Open with CodeSandbox](https://assets.codesandbox.io/github/button-edit-lime.svg)](https://codesandbox.io/p/sandbox/github/withastro/starlight/tree/main/examples/basics)
-[![Deploy to Netlify](https://www.netlify.com/img/deploy/button.svg)](https://app.netlify.com/start/deploy?repository=https://github.com/withastro/starlight&create_from_path=examples/basics)
-[![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/new/clone?repository-url=https%3A%2F%2Fgithub.com%2Fwithastro%2Fstarlight%2Ftree%2Fmain%2Fexamples%2Fbasics&project-name=my-starlight-docs&repository-name=my-starlight-docs)
+Seit über zehn Jahren sammle ich berufliche Erfahrungen in unterschiedlichen Positionen und mit verschiedenen Führungspersönlichkeiten. Dabei ist mir ein wiederkehrendes Muster begegnet: In den meisten Fällen, in denen ich ein Unternehmen verlassen habe, war eine toxische Führungskraft der Hauptgrund für meine Entscheidung. Diese Erfahrung teile ich mit vielen anderen, denn schlechte Führung gehört zu den häufigsten Kündigungsgründen weltweit.
 
-> 🧑‍🚀 **Seasoned astronaut?** Delete this file. Have fun!
+> **Laut einer <a href="https://www.gallup.com/de/505997/rote-karte-schlechte-führung-emotionale-bindung-deutscher-beschäftigter-talfahrt.aspx">Gallup-Studie</a> aus dem Jahr 2023** gaben 75 % der Befragten an, dass ihr direkter Vorgesetzter eine wesentliche Rolle für ihre Arbeitszufriedenheit und damit auch ihre Verweildauer im Unternehmen spielt.
 
-## 🚀 Project Structure
+Toxische Führung zeigt sich in vielen Facetten und ist nicht auf den Arbeitsplatz beschränkt. Mein Ziel ist es, Licht ins Dunkel zu bringen:
 
-Inside of your Astro + Starlight project, you'll see the following folders and files:
+- **Was macht eine Führungskraft toxisch?**
+- **Was können Manager tun, um solche Verhaltensmuster zu vermeiden?**
+- **Wie können wir uns bewusst machen, welchen Schaden bestimmte Verhaltensweisen verursachen?**
 
-```
-.
-├── public/
-├── src/
-│   ├── assets/
-│   ├── content/
-│   │   ├── docs/
-│   │   └── config.ts
-│   └── env.d.ts
-├── astro.config.mjs
-├── package.json
-└── tsconfig.json
-```
+## Eine Idee für Veränderung
 
-Starlight looks for `.md` or `.mdx` files in the `src/content/docs/` directory. Each file is exposed as a route based on its file name.
+Eine Idee, die ich gerne mit euch teilen und gemeinsam weiterentwickeln möchte, ist der Einsatz von ChatGPT, um toxische Führungssituationen zu simulieren.  
+Durch gezielte Prompts können wir:
 
-Images can be added to `src/assets/` and embedded in Markdown with a relative link.
+- toxische Führung imitieren,
+- Lösungsansätze für den Umgang damit erkunden,
+- und Führungskräften aufzeigen, wie ihre Handlungen auf andere wirken.
 
-Static assets, like favicons, can be placed in the `public/` directory.
+Diese Methode kann sowohl **therapeutische Effekte** haben als auch Führungskräfte **sensibilisieren**, um toxische Verhaltensweisen zu vermeiden.
 
-## 🧞 Commands
+### Ein Beispiel: Micromanagement
 
-All commands are run from the root of the project, from a terminal:
+Micromanagement ist ein häufig genannter Aspekt toxischen Verhaltens.
 
-| Command                   | Action                                           |
-| :------------------------ | :----------------------------------------------- |
-| `npm install`             | Installs dependencies                            |
-| `npm run dev`             | Starts local dev server at `localhost:4321`      |
-| `npm run build`           | Build your production site to `./dist/`          |
-| `npm run preview`         | Preview your build locally, before deploying     |
-| `npm run astro ...`       | Run CLI commands like `astro add`, `astro check` |
-| `npm run astro -- --help` | Get help using the Astro CLI                     |
+- In Ausnahmefällen mag es sinnvoll sein,
+- doch viele Mitarbeiter erleben es als übergriffig und demotivierend.
 
-## 👀 Want to learn more?
+Oft sind sich Führungskräfte nicht einmal bewusst, dass sie micromanagen oder welchen Schaden dies langfristig anrichtet. Durch Simulationen mit ChatGPT könnten wir trainieren:
 
-Check out [Starlight’s docs](https://starlight.astro.build/), read [the Astro documentation](https://docs.astro.build), or jump into the [Astro Discord server](https://astro.build/chat).
+- Wie man solche Situationen adressiert,
+- oder besser mit ihnen umgeht.
 
-# Cool color‚
+## Gemeinsam an einer Lösung arbeiten
 
-whiteish F5EFE1
-245,239,225
+Lasst uns eine Initiative schaffen, die:
+
+1. **Mitarbeitern hilft**, toxisches Verhalten zu erkennen und damit umzugehen.
+2. **Führungskräfte sensibilisiert**, eine positive und produktive Arbeitskultur zu fördern.
