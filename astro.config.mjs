@@ -6,18 +6,19 @@ import starlight from '@astrojs/starlight';
 
 // https://astro.build/config
 export default defineConfig({
+	site: 'https://toxic.best',
 	integrations: [
 		starlight({
 
 			favicon: 'favicon.jpg',
 			lastUpdated: true,
-			title: 'John',
+			title: '',
 			logo: {
 				src: './src/assets/500_boss_with_back.webp',
 			},
 			social: {
-				github: 'https://github.com/withastro/starlight',
-				linkedin: 'https://www.linkedin.com/company/astroinc',
+				github: 'https://github.com/StasonJatham/toxic-best/pulls',
+				linkedin: 'https://www.linkedin.com/in/karl-machleidt',
 			},
 			customCss: [
 				'./src/styles/custom.css',
